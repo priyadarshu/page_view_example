@@ -26,6 +26,17 @@ class PageViewExample extends StatefulWidget {
 class _PageViewExampleState extends State<PageViewExample> {
   @override
   Widget build(BuildContext context) {
-    return Container();
+    return Scaffold(
+      appBar: AppBar(
+        title: Text('Page View Example'),
+        titleSpacing: 2.0,
+      ),
+      body: PageView.builder(
+        itemCount: pages.length,
+        itemBuilder: (BuildContext context, int index) {
+          return Container();
+        },
+      ),
+    );
   }
 }
