@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:page_view_example/pages/pages.dart';
 
 void main() {
   runApp(MyApp());
