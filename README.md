@@ -1,10 +1,17 @@
 # page_view_example
 
-A new Flutter project.
+- A new Flutter project for beginners.
+- This repository uses Page View and Page Circular Indicator package.
+- Learned from the [Youtube](https://www.youtube.com/watch?v=v_90gT6v6ts&list=PL1WkZqhlAdC_MPQBXUFwAHviZ3XkWPDBG&index=164)
+
+Sample output :
+![](pageview.gif)
+
 
 ## Getting Started
 
 This project is a starting point for a Flutter application.
+Refer
 
 A few resources to get you started if this is your first Flutter project:
 
