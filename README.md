@@ -2,9 +2,10 @@
 
 - A new Flutter project for beginners.
 - This repository uses Page View and Page Circular Indicator package.
-- Learned from the [Youtube](https://www.youtube.com/watch?v=v_90gT6v6ts&list=PL1WkZqhlAdC_MPQBXUFwAHviZ3XkWPDBG&index=164)
+- Learned from the [Youtube](https://www.youtube.com/watch?v=v_90gT6v6ts&list=PL1WkZqhlAdC_MPQBXUFwAHviZ3XkWPDBG&index=164), credits to [Johannes Milke](https://github.com/JohannesMilke) for his awesome tutorials
 
-Sample output :
+# Sample output :
+
 ![](pageview.gif)
 
 
